@@ -1,1 +1,12 @@
 Hi Hari
+
+This
+is
+a
+small
+git 
+tutorial
+for 
+your 
+learning
+
